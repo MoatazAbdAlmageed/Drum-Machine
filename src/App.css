@@ -72,5 +72,5 @@
 }
 
 audio{
-    display: none;
+    display: none !important;
 }
